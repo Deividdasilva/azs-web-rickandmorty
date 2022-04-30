@@ -1,0 +1,22 @@
+.lista-episodios {
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  max-width: 900px;
+}
+
+.lista-episodios button {
+  margin-right: 5px;
+  margin-top: 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 0;
+  font-size: 15px;
+  outline: none;
+  padding: 12px;
+}
+
+.lista-episodios button:hover {
+  background-color: blue;
+  color: #FFF;
+}

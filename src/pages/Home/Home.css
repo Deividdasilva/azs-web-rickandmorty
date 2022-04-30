@@ -1,0 +1,59 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 650px;
+}
+
+.lista-episodios {
+  margin: 10px;
+  flex-direction: row;
+}
+
+.lista-episodios article {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: left;
+  background-color: #FFF;
+  margin: 50px;
+  border: 3px solid blue;
+  background-color: #F8F8F8;
+  transition: 1s;
+  /* box-shadow: 10px 20px blue; */
+  /* font-size: 40px; */
+  /* cursor: pointer; */
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.lista-episodios strong {
+  padding-bottom: 10px;
+  font-size: 20px;
+}
+
+.lista-episodios input {
+  margin-top: 20px;
+  margin-left: 120px;
+  margin-bottom: 50px;
+  width: 350px;
+  height: 40px;
+  font-size: 20px;
+  padding-left: 10px;
+  border-radius: 5px;
+  border: 3px solid blue;
+}
+
+.lista-episodios article a {
+  text-decoration: none;
+  color: #FFF;
+  background-color: blue;
+  font-size: 18px;
+  width: 100%;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
