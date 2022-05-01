@@ -5,17 +5,14 @@ header {
   width: 100%;
   margin-right: 500px;
   height: 60px;
-  /* background-color: #F8F8F8; */
 }
 
 header .logo {
   display: flex;
   align-items: center;
   justify-content: left;
-  /* width: 100%; */
   margin-right: 800px;
   height: 60px;
-  /* background-color: #F8F8F8; */
   color: blue;
 }
 

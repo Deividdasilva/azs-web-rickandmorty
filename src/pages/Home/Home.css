@@ -22,9 +22,6 @@
   border: 3px solid blue;
   background-color: #F8F8F8;
   transition: 1s;
-  /* box-shadow: 10px 20px blue; */
-  /* font-size: 40px; */
-  /* cursor: pointer; */
   padding: 10px;
   border-radius: 10px;
 }

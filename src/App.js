@@ -11,7 +11,3 @@ export default function App() {
     </div>
   );
 }
-
-
-// Todos os episodios
-// https://rickandmortyapi.com/api/episode
